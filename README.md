@@ -22,7 +22,7 @@ The insights surfaced by the agent helped inform a marketing response that contr
 
 > This repository documents an anonymised version of a real production workflow. Competitor names, App Store URLs, Telegram identifiers, credentials, internal reports, and proprietary company data have been removed or replaced with placeholders.
 
-![App Store Competitor Monitor](images/app-store-competitor-monitor.png)
+![App Store Competitor Monitor](images/cover.png)
 
 ## Why this exists
 
